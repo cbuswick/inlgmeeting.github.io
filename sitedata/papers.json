@@ -109,10 +109,10 @@
       "Irina Piontkovskaya",
       ],
     "title": "Template-based Approach to Zero-shot Intent Recognition",
-    "session": ""
-    "abstract": "
+    "session": "Oral Session 1"
+    "abstract": ""
     "uid": "paper6"
-    "start time": "",
+    "start time": "2022-07-19T14:20:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -126,10 +126,10 @@
       "Suma Bhat"
       ],
     "title": "'Slow Service' $\cancel{\rightarrow}$ 'Great Food': Enhancing Content Preservation in Unsupervised Text Style Transfer",
-    "session": ""
+    "session": "Oral Session 3"
     "abstract": "
     "uid": "paper7"
-    "start time": "",
+    "start time": "2022-07-21T15:00:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -145,10 +145,10 @@
       "Imad Afyouni"
       ],
     "title": "Arabic Image Captioning using Pre-training of Deep Bidirectional Transformers",
-    "session": ""
+    "session": "Poster Session 1"
     "abstract": "
     "uid": "paper8"
-    "start time": "",
+    "start time": "2022-07-19T16:20:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -163,10 +163,10 @@
       "Dittaya Wanvarie"
       ],
     "title": "Plot Writing From Pre-Trained Language Models",
-    "session": ""
+    "session": "Oral Session 2"
     "abstract": "
     "uid": "paper9"
-    "start time": "",
+    "start time": "2022-07-20T11:10:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -179,10 +179,10 @@
       "Joosung Lee"
       ],
     "title": "Paraphrasing via Ranking Many Candidates",
-    "session": ""
+    "session": "Poster Session 2"
     "abstract": "
     "uid": "paper10"
-    "start time": "",
+    "start time": "2022-07-20T14:50:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -198,10 +198,10 @@
       "Pierre-Luc Déziel"
       ],
     "title": "Evaluating Legal Accuracy of Neural Generators on the Generation of Criminal Court Dockets Description",
-    "session": ""
-    "abstract": "
+    "session": "Oral Session 2"
+    "abstract": ""
     "uid": "paper11"
-    "start time": "",
+    "start time": "2022-07-20T10:30:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -217,10 +217,10 @@
       "Thierry Poibeau"
       ],
     "title": "Automatic Generation of Factual News Headlines in Finnish",
-    "session": ""
-    "abstract": "
+    "session": "Poster Session 2"
+    "abstract": ""
     "uid": "paper12"
-    "start time": "",
+    "start time": "2022-07-20T14:50:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -237,10 +237,10 @@
       "Sina Sina Zarrieß"
       ],
     "title": "Generating Coherent and Informative Descriptions for Groups of Visual Objects and Categories: A Simple Decoding Approach",
-    "session": ""
+    "session": "Oral Session 4"
     "abstract": "
     "uid": "paper13"
-    "start time": "",
+    "start time": "2022-07-21T16:40:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -256,10 +256,10 @@
       "Juan Taboada"
       ],
     "title": "Dealing with hallucination and omission in neural Natural Language Generation: A use case on meteorology.",
-    "session": ""
+    "session": "Oral Session 2"
     "abstract": "
     "uid": "paper14"
-    "start time": "",
+    "start time": "2022-07-20T10:50:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -274,10 +274,10 @@
       "Kyunghyun Cho"
       ],
     "title": "Amortized Noisy Channel Neural Machine Translation",
-    "session": ""
+    "session": "Poster Session 2"
     "abstract": "
     "uid": "paper15"
-    "start time": "",
+    "start time": "2022-07-20T14:50:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -293,10 +293,10 @@
       "Surangika Ranathunga"
       ],
     "title": "Math Word Problem Generation with Multilingual Language Models",
-    "session": ""
+    "session": "Poster Session 2"
     "abstract": "
     "uid": "paper16"
-    "start time": "",
+    "start time": "2022-07-20T14:50:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -310,10 +310,10 @@
       "Ehud Reiter"
       ],
     "title": "Comparing informativeness of an NLG chatbot vs graphical app in diet-information domain",
-    "session": ""
+    "session": "Oral Session 1"
     "abstract": "
     "uid": "paper17"
-    "start time": "",
+    "start time": "2022-07-19T14:00:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -329,10 +329,10 @@
       "ChengXiang Zhai"
       ],
     "title": "Generation of Student Questions for Inquiry-based Learning",
-    "session": ""
+    "session": "Poster Session 1"
     "abstract": "
     "uid": "paper18"
-    "start time": "",
+    "start time": "2022-07-19T16:20:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -347,10 +347,10 @@
       "Yao-Chung Fan"
       ],
     "title": "Keyword Provision Question Generation for Facilitating Educational Reading Comprehension Preparation",
-    "session": ""
+    "session": "Poster Session 1"
     "abstract": "
     "uid": "paper19"
-    "start time": "",
+    "start time": "2022-07-19T16:20:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -366,10 +366,10 @@
       "Philipp Sadler"
       ],
     "title": "Generating Landmark-based Manipulation Instructions from Image Pairs",
-    "session": ""
+    "session": "Oral Session 4"
     "abstract": "
     "uid": "paper20"
-    "start time": "",
+    "start time": "2022-07-21T17:00:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -390,10 +390,10 @@
       "Matthew Stone"
       ],
     "title": "Zero-shot Cross-Linguistic Learning of Event Semantics",
-    "session": ""
+    "session": "Oral Session 3"
     "abstract": "
     "uid": "paper21"
-    "start time": "",
+    "start time": "2022-07-21T14:00:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -408,10 +408,10 @@
       "Frank Guerin"
       ],
     "title": "Nominal Metaphor Generation with Multitask Learning",
-    "session": ""
+    "session": "Oral Session 4"
     "abstract": "
     "uid": "paper22"
-    "start time": "",
+    "start time": "2022-07-21T16:20:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -425,11 +425,11 @@
       "Yasmeen Emampoor",
       "Simon Dobnik"
       ],
-    "title": "Look and Answer the Question: On the Role of Vision in Embodied Question Answering",
-    "session": ""
+    "title": "Language is Strong, Vision is Not: A Diagnostic Study of the Limitations of the Embodied Question Answering Task",
+    "session": "Poster Session 1"
     "abstract": "
     "uid": "paper23"
-    "start time": "",
+    "start time": "2022-07-19T16:20:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -445,10 +445,10 @@
       "Philipp Cimiano"
       ],
     "title": "Strategies for framing argumentative conclusion generation",
-    "session": ""
+    "session": "Poster Session 2"
     "abstract": "
     "uid": "paper24"
-    "start time": "",
+    "start time": "2022-07-20T14:50:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -464,10 +464,10 @@
       "Yong Yu"
       ],
     "title": "LAFT: Cross-lingual Transfer for Text Generation by Language-Agnostic Finetuning",
-    "session": ""
+    "session": "Oral Session 3"
     "abstract": "
     "uid": "paper25"
-    "start time": "",
+    "start time": "2022-07-21T14:20:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -482,10 +482,10 @@
       "Marcel Pfaffhauser"
       ],
     "title": "Quantum Natural Language Generation on Near-Term Devices",
-    "session": ""
+    "session": "Oral Session 2"
     "abstract": "
     "uid": "paper26"
-    "start time": "",
+    "start time": "2022-07-20T11:30:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -500,10 +500,10 @@
       "ChengXiang Zhai"
       ],
     "title": "Analogy Generation by Prompting Large Language Models: A Case Study of InstructGPT",
-    "session": ""
+    "session": "Oral Session 3"
     "abstract": "
     "uid": "paper27"
-    "start time": "",
+    "start time": "2022-07-21T14:40:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -518,10 +518,10 @@
       "Samira Shaikh"
       ],
     "title": "Towards Evaluation of Multi-party Dialogue Systems",
-    "session": ""
+    "session": "Oral Session 1"
     "abstract": "
     "uid": "paper28"
-    "start time": "",
+    "start time": "2022-07-19T14:50:00Z",
     "external paper link": "",
     "summary video": "",
     "summary video captions": "",
@@ -537,9 +537,352 @@
       "Alberto Testoni"
       ],
     "title": "Are Current Decoding Strategies Capable of Facing the Challenges of Visual Dialogue?",
-    "session": ""
+    "session": "Poster Session 1"
     "abstract": "
     "uid": "paper29"
+    "start time": "2022-07-19T16:20:00Z",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper30": {
+    "authors": [
+      "Tirthankar Ghosal",
+      "Marie Hledíková",
+      "Muskaan Singh",
+      "Anna Nedoluzhko",
+      "Ondrej Bojar"
+      ],
+    "title": "The Second Automatic Minuting (AutoMin) Challenge: Generating and Evaluating Minutes from Multi-Party Meetings",
+    "session": "Genchal"
+    "abstract": "
+    "uid": "paper30"
+    "start time": "2022-07-21T11:30:00Z",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper31": {
+    "authors": [
+      "Yulong Chen",
+      "Ming Zhong",
+      "Xuefeng Bai",
+      "Naihao Deng",
+      "Jing Li",
+      "Yue Zhang"
+      ],
+    "title": "	The Cross-lingual Conversation Summarization Challenge",
+    "session": "GenChal"
+    "abstract": "
+    "uid": "paper31"
+    "start time": "2022-07-21T11:45:00Z",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper32": {
+    "authors": [
+      "Vivek Srivastava",
+      "Mayank Singh"
+      ],
+    "title": "HinglishEval Generation Challenge on Quality Estimation of Synthetic Code-mixed Text: Overview and Results",
+    "session": "Genchal"
+    "abstract": "
+    "uid": "paper32"
+    "start time": "2022-07-21T10:50:00Z",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper33": {
+    "authors": [
+      "Prashant Kodali",
+      "Tanmay Sachan",
+      "Akshay Goindani",
+      "Anmol Goel",
+      "Naman Ahuja",
+      "Manish Shrivastava",
+      "Ponnurangam Kumaraguru"
+      ],
+    "title": "PreCogIIITH at HinglishEval: Leveraging Code-Mixing Metrics & Language Model Embeddings To Estimate Code-Mix Quality",
+    "session": ""
+    "abstract": "
+    "uid": "paper33"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper34": {
+    "authors": "Nikhil Singh"
+    "title": "Niksss at HinglishEval: Language-agnostic BERT-based Contextual Embeddings with Catboost for Quality Evaluation of the Low-Resource Synthetically Generated Code-Mixed Hinglish Text",
+    "session": ""
+    "abstract": "
+    "uid": "paper34"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper35": {
+    "authors": [
+      "Shaz Furniturewala",
+      "Vijay Kumari",
+      "Amulya Ratna Dash",
+      "Hriday Kedia",
+      "Naman Ahuja",
+      "Yashvardhan Sharma"
+      ],
+    "title": "BITS Pilani at HinglishEval: Quality Evaluation for Code-Mixed Hinglish Text Using Transformers",
+    "session": "GenChal"
+    "abstract": "
+    "uid": "paper35"
+    "start time": "2022-07-21T10:50:00Z",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper36": {
+    "authors": [
+      "Prantik Guha",
+      "Rudra Dhar",
+      "Dipankar Das"
+      ],
+    "title": "JU_NLP at HinglishEval: Quality Evaluation of the Low-Resource Code-Mixed Hinglish Text",
+    "session": ""
+    "abstract": "
+    "uid": "paper36"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper37": {
+    "authors": [
+      "Anya Belz",
+      "Anastasia Shimorina",
+      "Maja Popovic",
+      "Ehud Reiter"
+      ],
+    "title": "The 2022 ReproGen Shared Task on Reproducibility of Evaluations in NLG: Overview and Results",
+    "session": "GenChal"
+    "abstract": "
+    "uid": "paper37"
+    "start time": "2022-07-21T11:10:00Z",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper38": {
+    "authors": [
+      "Rudali Huidrom",
+      "Ondrej Dusek",
+      "Zdeněk Kasner",
+      "Thiago Castro Ferreira",
+      "Anya Belz"
+      ],
+    "title": "Reproductions of a Human-Assessed Comparative Evaluation of a Semantic Error Detection System",
+    "session": ""
+    "abstract": "
+    "uid": "paper38"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper39": {
+    "authors": [
+      "Mohammad Arvan",
+      "Luis Pina",
+      "Natalie Parde"
+      ],
+    "title": "Reproducibility of Exploring Neural Text Simplification Models: A Review",
+    "session": ""
+    "abstract": "
+    "uid": "paper39"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper40": {
+    "authors": [
+      "Craig Thomson",
+      "Ehud Reiter"
+      ],
+    "title": "The Accuracy Evaluation Shared Task as a Retrospective Reproduction Study",
+    "session": ""
+    "abstract": "
+    "uid": "paper40"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper41": {
+    "authors": [
+      "Maja Popovic",
+      "Sheila Castilho",
+      "Rudali Huidrom",
+      "Anya Belz"
+      ],
+    "title": "Reproducing a Manual Evaluation of Simplicity in Text Simplification System Outputs",
+    "session": ""
+    "abstract": "
+    "uid": "paper41"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper42": {
+    "authors": [
+      "Anouck Braggaar",
+      "Frédéric Tomas",
+      "Peter Blomsma",
+      "Saar Hommes",
+      "Nadine Braun",
+      "Emiel van Miltenburg",
+      "Chris Van der Lee",
+      "Martijn Goudbeek",
+      "Emiel Krahmer"
+      ],
+    "title": "A reproduction study of methods for evaluating dialogue system output: Replicating Santhanam and Shaikh (2019)",
+    "session": ""
+    "abstract": "
+    "uid": "paper42"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper43": {
+    "authors": [
+      "Naihao Deng",
+      "Yulong Chen",
+      "Yang Liu",
+      "Yue Zhang"
+      ],
+    "title": "DialogSum Challenge: Results of the Dialogue Summarization Shared Task",
+    "session": "GenChal"
+    "abstract": "
+    "uid": "paper43"
+    "start time": "2022-07-21T10:30:00Z",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper44": {
+    "authors": [
+      "Vipul Chauhan",
+      "Prasenjeet Roy",
+      "Lipika Dey",
+      "Tushar Goel"
+      ],
+    "title": "TCS_WITM_2022 @ DialogSum: Topic oriented Summarization using Transformer based Encoder Decoder Model",
+    "session": ""
+    "abstract": "
+    "uid": "paper44"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper45": {
+    "authors": [
+      "Saprativa Bhattacharjee",
+      "Kartik Shinde",
+      "Tirthankar Ghosal",
+      "Asif Ekbal"
+      ],
+    "title": "A Multi-Task Learning Approach for Summarization of Dialogues",
+    "session": ""
+    "abstract": "
+    "uid": "paper45"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper46": {
+    "authors": [
+      "Conrad Lundberg",
+      "Leyre Sánchez Viñuela",
+      "Siena Biales"
+      ],
+    "title": "Dialogue Summarization using BART",
+    "session": ""
+    "abstract": "
+    "uid": "paper46"
+    "start time": "",
+    "external paper link": "",
+    "summary video": "",
+    "summary video captions": "",
+    "full video": ""
+    "full video captions": "",
+    "PDF": ""
+  },
+  "paper46": {
+    "authors": [
+      "Mohammad Arvan",
+      "Luis Pina",
+      "Natalie Parde"
+      ],
+    "title": "Reproducibility of Exploring Neural Text Simplification Models: A Review",
+    "session": ""
+    "abstract": "
+    "uid": "paper46"
     "start time": "",
     "external paper link": "",
     "summary video": "",
